@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347581099926",
+    "project_id": "new-flick-image",
+    "storage_bucket": "new-flick-image.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347581099926:android:4e52e24842cc77572eb7b7",
+        "android_client_info": {
+          "package_name": "vn.edu.usth.new_flick_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-AbCO6dZOyjV0gr6OaBqS2dh6bHaJdvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
