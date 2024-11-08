@@ -15,10 +15,11 @@ import com.bumptech.glide.Glide;
 import java.util.List;
 
 
-import vn.edu.usth.flickrapp.R;
+
 import vn.edu.usth.new_flick_image.Model.Image;
 import vn.edu.usth.new_flick_image.Model.User;
 import vn.edu.usth.new_flick_image.PhotoDetailActivity;
+import vn.edu.usth.new_flick_image.R;
 
 public class ImageProfileAdapter extends RecyclerView.Adapter<ImageProfileAdapter.ViewHolder> {
 

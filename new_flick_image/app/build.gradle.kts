@@ -69,7 +69,7 @@ android {
     defaultConfig {
 
         applicationId = "vn.edu.usth.new_flick_image"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
